@@ -1,5 +1,7 @@
 # oracle-report
 Oracle PDB Configuration Report 
+names: KWIZERA DIEUDONNE
+ID: 27623
 
 Task 1: Create a New Pluggable Database
 I created a new PDB named 'di_pdb_27623' with an admin user 'di_plsqlauca_27623' and password '1234'.
