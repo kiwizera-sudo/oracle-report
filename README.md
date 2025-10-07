@@ -1,6 +1,8 @@
 # oracle-report
 Oracle PDB Configuration Report 
+
 names: KWIZERA DIEUDONNE
+
 ID: 27623
 
 Task 1: Create a New Pluggable Database
