@@ -3,16 +3,16 @@ Oracle PDB Configuration Report
 
 Task 1: Create a New Pluggable Database
 I created a new PDB named 'di_pdb_27623' with an admin user 'di_plsqlauca_27623' and password '1234'.
-![](screenshots/creation.png);
+![](screenshots/https://private-user-images.githubusercontent.com/124999593/498477671-ccd1668b-3b34-477a-ba85-c685c859c87a.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTk4NjI5ODcsIm5iZiI6MTc1OTg2MjY4NywicGF0aCI6Ii8xMjQ5OTk1OTMvNDk4NDc3NjcxLWNjZDE2NjhiLTNiMzQtNDc3YS1iYTg1LWM2ODVjODU5Yzg3YS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAwN1QxODQ0NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iOWQ3NDg4ZDlmZDc2YjI5ZjJlMGQ4OTQyNjliZGMyZWUyZjdlNTMwYTFkOTA0YWUyN2FhNzQwMTY5ZDdiYWQyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.-v4xCXs-bGFRavR3-nt76yba7BY_8XW6vE7z--CfoZk);
 
 Task 2: Create and Delete Another PDB
 I created a temporary PDB named 'di_to_delete_pdb_27623' and deleted it after verifying successful creation.
  ![](screenshots/temp);
- ![](screenshots/drop.png);
+ ![](screenshots/https://private-user-images.githubusercontent.com/124999593/498478047-4ace7a8b-51ad-488f-9cfc-824c5f352599.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTk4NjMwNDgsIm5iZiI6MTc1OTg2Mjc0OCwicGF0aCI6Ii8xMjQ5OTk1OTMvNDk4NDc4MDQ3LTRhY2U3YThiLTUxYWQtNDg4Zi05Y2ZjLTgyNGM1ZjM1MjU5OS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAwN1QxODQ1NDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ZWMyM2Q0ZGY2ODAzYzE2YzA1ODk5YjI4NGI3YTg5YTUwNjk2YThiZWUyZDk3YjA3YTY0MGFkNzU3MGMyNDg2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.DyAl_of5X1F3xTc9I0LOF85_m6YBOGLmPCvacW471yA);
  
 Task 3: Oracle Enterprise Manager (OEM) / SQL Developer Dashboard
 Since 'emctl' was not recognized in Oracle 23c AI, I used Oracle SQL Developer as an alternative dashboard. 
- ![](screenshots/dashboard.png);
+ ![](https://github.com/user-attachments/assets/58b0467d-bf2c-4d96-b980-b6af49f5adcc);
  
 3. Issues Encountered and Solutions 
 The emctl command was unavailable in Oracle 23c AI.: Used Oracle SQL Developer as an alternative .
