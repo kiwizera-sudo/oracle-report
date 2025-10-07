@@ -17,4 +17,4 @@ The emctl command was unavailable in Oracle 23c AI.: Used Oracle SQL Developer a
 - Successfully created a PDB with an admin user
 - Created and deleted a second PDB for testing
 - Verified and documented all results using SQL Developer dashboard
-
+- screenshots are provided in the word file report
