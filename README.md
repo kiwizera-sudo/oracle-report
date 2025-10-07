@@ -3,7 +3,7 @@ Oracle PDB Configuration Report
 
 Task 1: Create a New Pluggable Database
 I created a new PDB named 'di_pdb_27623' with an admin user 'di_plsqlauca_27623' and password '1234'.
-![](screenshots/https://github.com/user-attachments/assets/29a87cb1-edf1-44e9-bb3d-a979617bae24)
+![](screenshots/[https://github.com/user-attachments/assets/680dce58-a192-4cba-b145-1a23f039d637)
 
 Task 2: Create and Delete Another PDB
 I created a temporary PDB named 'di_to_delete_pdb_27623' and deleted it after verifying successful creation.
