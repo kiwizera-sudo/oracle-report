@@ -16,7 +16,7 @@ I created a temporary PDB named 'di_to_delete_pdb_27623' and deleted it after ve
  
 Task 3: Oracle Enterprise Manager (OEM) / SQL Developer Dashboard
 Since 'emctl' was not recognized in Oracle 23c AI, I used Oracle SQL Developer as an alternative dashboard. 
- ![](https://github.com/user-attachments/assets/58b0467d-bf2c-4d96-b980-b6af49f5adcc)
+ ![](https://github.com/user-attachments/assets/4476ac68-1a11-4601-85b5-964b3a833b56)
  
 3. Issues Encountered and Solutions 
 The emctl command was unavailable in Oracle 23c AI.: Used Oracle SQL Developer as an alternative .
